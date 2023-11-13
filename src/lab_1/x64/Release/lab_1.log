@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  24 of 363 functions ( 6.6%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab_1.vcxproj -> C:\my__folder\C++_learning\PA_lab_1_modified\lab_1\x64\Release\lab_1.exe
